@@ -1,0 +1,26 @@
+{
+  "name": "merge-primo-test",
+  "version": "1.0.0",
+  "description": "for primo test",
+  "main": "dist/merge.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "typescript",
+    "merge",
+    "sort",
+    "jest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^20.11.24",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
